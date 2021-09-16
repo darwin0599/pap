@@ -1,0 +1,1272 @@
+.bg-amarillo{
+    background-color: #F9DE4B;
+}
+.bg-rojo{
+    background-color: #FF4300;
+}
+
+.bg-fondo{
+    background: rgb(162, 230, 240);
+    background: linear-gradient(90deg, rgb(69, 207, 215) 0%, rgba(162, 230, 240) 30%,);
+}
+
+.bg-azul{
+    background-color: #49A9DF;
+}
+
+.bg-verde{
+    background-color: #1AB1A3;
+}
+
+.bg-verdeFluor{
+    background-color: #00D5B4;
+}
+
+.bg-vigilado{
+    background-image: url('../images/vigilado.png');
+    position: absolute;
+    width: 8px;
+    height: 5.1rem;
+    background-repeat: no-repeat;
+    left: .2rem;
+    top: 40%;
+    margin-top: -37px;
+}
+.btn-amarillo{
+    line-height: normal;
+    font-size: 62px;
+    color: #0090EB;
+    background: #FFE000;
+    border-radius: 4rem;
+    padding: 0rem 2rem;
+}
+.btn-verde{
+    font-size: 40px;
+    background: #8BC43F;
+    border-radius: 2rem;
+    padding: 0rem 2rem;
+    color: white;
+    box-shadow: 0px 3px 1px #628c2a;
+
+}
+.btn-registro{
+    background: #00BFA8;
+    color: white;
+    border-radius: 2rem;
+    padding: 0.5rem 2rem;
+    border: 1px solid #00BFA8;
+}
+.btn-registro:hover{
+    background: white;
+    color: #00BFA8;
+    border: 1px solid #00BFA8;
+}
+
+.btn-text-registrate{
+    background-color: #F8EC56;
+    padding: 0.2rem .4em;
+    border-radius: 2rem;
+    margin: 0 -.6rem;
+}
+
+
+.bl-content{
+    background: white;
+    margin-top: 0rem;
+    padding-top: 1rem;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    box-shadow: 0px 4px 3px #80808059
+}
+
+.bl-imagen{
+    position: absolute;
+    top: -10rem;
+    right: -4rem;
+}
+
+.bl-chat--imagen{
+    position: absolute;
+    top: -1rem;
+    left: 4rem;
+}
+
+.bl-dinero{
+    margin-top: 30rem;
+}
+
+.bl-dinero .container{
+    background: white;
+    border-radius: 2rem;
+    padding-bottom: 4rem;
+    box-shadow: -1px 16px 9px 1px #80808066;
+}
+
+.bl-dinero .img-logoimagen{
+    margin-top: -30rem;
+}
+.bl-escribenos{
+    background: #FFD725;
+    border-radius: 4rem;
+    margin-bottom: 3rem;
+    padding-bottom: 2rem;
+}
+.bl-formulario form input{
+    padding: 1.2rem 1rem 1rem 1rem;
+}
+.bl-formulario form input, .bl-formulario form select {
+    border: 2px solid #387F85;
+    border-radius: 3rem;
+    color: #A0A09F;
+    font-family: 'Museo700';
+    font-size: 1.4rem;
+}
+.bl-formulario form input::placeholder {
+    color: #A0A09F;
+    font-family: 'Museo700';
+}
+
+.bl-gracias--content .img-logoimagen{
+    margin-top: -23rem;
+}
+.bl-gracias--content{
+    margin-top: 15rem;
+}
+.bl-gracias{
+    background: white;
+    margin: 3rem 0rem;
+    padding: 9.5rem;
+    border-radius: 5rem;
+    box-shadow: -1px 16px 9px 1px #80808066;
+}
+.bl-moneda{
+    position: absolute;
+    right: -3rem;
+    top: 4rem;
+    height: auto;
+    width: 12rem;
+}
+
+.bl-moneda2{
+    position: absolute;
+    left: -15rem;
+    bottom: -12rem;
+}
+
+.bl-moneda3{
+    position: absolute;
+    right: -6rem;
+    top: 12rem;
+    z-index: 200;
+    height: auto;
+    width: 12rem;
+}
+
+.bl-moneda4{
+    position: absolute;
+    left: -3rem;
+    bottom: 2rem;
+    z-index: 200;
+
+}
+.bl-oferta{
+    border: 3px solid #3B8498;
+    border-radius: 2.5rem;
+    margin-top: 1rem;
+    position: relative;
+    display: block;
+    padding-top: 2rem;
+}
+.bl-oferta--titulo{
+    position: absolute;
+    top: -2rem;
+    background: white;
+    left: 50%;
+    margin-left: -188px;
+}
+.bl-oferta--titulo1{
+    position: absolute;
+    top: -2rem;
+    background: white;
+    left: 50%;
+    margin-left: -105px;
+}
+.bl-oferta--titulo2 {
+    position: absolute;
+    top: -2rem;
+    background: white;
+    left: 50%;
+    margin-left: -188px;
+}
+.bl-oferta--precio{
+    font-size: 135px;
+    line-height: 7rem;
+}
+.bl-oferta--precio span{
+    font-size: 50px;
+    color: #3B8498;
+    padding-left: 0px;
+}
+.bl-plan .bl-imagen {
+    top: -3rem;
+    right: -1rem;  
+}
+.bl-plan .bl-titulo{
+    background: #00A1AE;
+    color: white;
+}
+
+.bl-plan .bl-oferta--precio{
+    font-size: 74px;
+    line-height: 4rem;
+    text-align: center;
+}
+.bl-plan .bl-oferta--precio span{
+    font-size: 40px;
+    margin-top: -1rem;
+}
+
+.bl-subfooter .img-llamada {
+    margin-top: -1.5rem;
+    padding-right: 3rem !important;
+}
+
+
+
+.bl-registro{
+    border: 1px solid #4288a1;
+    border-radius: 3rem;
+    padding: 3rem 1.5rem 3rem;
+    background: white;
+    box-shadow: -1px 16px 9px 1px #80808038;
+}
+
+.bl-registro form .form-group{
+    border-bottom: 1px solid #333;
+    position: relative;
+}
+
+
+.bl-registro form .form-group label{
+    position: absolute;
+    top: .5rem;
+}
+
+.bl-registro form label{
+    display: inline-block;
+    color: #00BFA8;
+}
+
+.bl-registro form .form-control{
+    display: inline-block;
+    width: 100%;
+    border: 0;
+    padding-left: 6rem;
+}
+.bl-registro form select.form-control{
+    padding-left: 0.5rem;
+}
+.bl-registro form .form-control:focus{
+    color: #BDBDBD;
+    background-color: #fff;
+    border-color: transparent;
+    outline: 0;
+    box-shadow: none;
+}
+
+.bl-registro form .form-group .label-select{
+    position: relative;
+}
+
+.bl-registro form .form-group .form-p-documento{
+    padding-left: 13rem;
+}
+
+.bl-titulo{
+    background: #F9D44B;
+    color: #3B8498;
+    border-top-left-radius: 1.5rem;
+    border-top-right-radius: 1.5rem;
+    padding-left: 3rem;
+    padding-top: 6rem  ;
+    padding-bottom: 6rem;
+    margin-top: 6rem;
+}
+.bl-titulo--chat{
+    border-bottom-left-radius: 2.5rem;
+    border-bottom-right-radius: 2.5rem;
+    border-top-left-radius: 2.5rem;
+    border-top-right-radius: 2.5rem;
+    box-shadow: 1px 4px 9px #33333359;
+    padding-top: 2rem;
+    padding-bottom: 3rem;
+}
+footer{
+    height: 145px;
+    padding-top: 3rem;
+}
+header{
+    height: 106px;
+    padding-top: .5rem;
+}
+.list-beneficios{
+    padding-left: 7rem;
+    list-style: none;
+}
+.list-beneficios img{
+    position: absolute;
+    margin-left: -7rem;
+}
+.list-beneficios{
+
+}
+
+.owl-carousel .owl-item img{
+    width: auto !important;
+}
+
+.line-normal{
+    line-height: normal;
+}
+
+.text-verdeCorp{
+    color: #0B8080;
+}
+.text-verdeText{
+    color: #3D889C;
+}
+.text-amarillo{
+    color: #F8EC56;
+}
+
+.text-amarilloOsc{
+    color: #FBC300;
+}
+.text-verde{
+    color: #8bc43f;
+}
+.text-rojo{
+    color: #FF4300;
+}
+.text-negro{
+    color: #4D4D4D;
+}
+.text-gris{
+    color: #666666;
+}
+.text-morado{
+    color: #AC55D4;
+}
+
+.text-azul{
+    color: #3B8498;
+}
+
+
+.text-fontM{
+    font-family: "Museo900"; 
+}
+.text-font500{
+    font-family: "Museo500"; 
+}
+
+.text-font700{
+    font-family: "Museo700"; 
+}
+
+
+
+
+/* 82pt */
+.text-vIII{
+    font-size: 5em;
+}
+
+/* 75pt */
+.text-vIIlg{
+    font-size: 4.68rem;
+    line-height: 4.6rem;
+}
+/* 65pt */
+.text-vIl{
+    font-size: 4.1rem;
+}
+
+/* 60pt */
+.text-vIl{
+    font-size: 3.7rem;
+}
+
+/* 45pt */
+.text-v{
+    font-size: 2.8rem;
+    line-height: normal;
+}
+
+/* 40pt */
+.text-iv{
+    font-size: 2.5rem;
+}
+
+/* 33pt */
+.text-lgs{
+    font-size: 2.06rem;
+}
+
+/* 30pt */
+.text-lg{
+    font-size: 1.87rem;
+}
+
+/* 25pt */
+.text-xxs{
+    font-size: 1.56rem;
+}
+
+/* 23pt */
+.text-xxm{
+    font-size: 1.43rem;
+}
+
+/* 20pt */
+.text-xx{
+    font-size: 1.25rem;
+}
+/* 12 */
+.text-x{
+    font-size: .75rem;
+}
+/*  10 */
+.text-s{
+    font-size: .65rem;
+}
+
+
+
+
+
+
+@font-face {
+    font-family: 'Museo900';
+    src: url('../fonts/Museo900.otf');
+    src: local('icomoonregular'),
+         url('../fonts/Museo900.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Museo900.woff') format('woff'),
+         url('../fonts/Museo900.woff2') format('woff'),
+         url('../fonts/Museo900.ttf') format('truetype'),
+         url('../fonts/Museo900.svg#open-sans') format('svg');
+}
+
+@font-face {
+    font-family: 'Museo700';
+    src: url('../fonts/Museo700.otf');
+    src: local('icomoonregular1'),
+         url('../fonts/Museo700.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Museo700.woff') format('woff'),
+         url('../fonts/Museo700.woff2') format('woff'),
+         url('../fonts/Museo700.ttf') format('truetype'),
+         url('../fonts/Museo700.svg#open-sans') format('svg');
+}
+
+@font-face {
+    font-family: 'Museo500';
+    src: url('../fonts/Museo500.otf');
+    src: local('icomoonregular1'),
+         url('../fonts/Museo500.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Museo500.woff') format('woff'),
+         url('../fonts/Museo500.woff2') format('woff'),
+         url('../fonts/Museo500.ttf') format('truetype'),
+         url('../fonts/Museo500.svg#open-sans') format('svg');
+}
+
+@media (min-width: 1366px) {
+    
+    .container {
+        max-width: 1280px;
+    }
+}
+
+@media (max-width: 1680px) {
+    
+   
+    .bl-moneda{
+        right: -7rem;
+    }
+    .bl-moneda2 {
+        left: -12rem;
+        bottom: -11rem;
+    }
+}
+@media (max-width: 1440px) {
+    
+    .bl-moneda{
+        position: absolute;
+        right: -3rem;
+        top: 4rem;
+        height: auto;
+        width: 10rem;
+    }
+    
+    .bl-moneda2{
+        position: absolute;
+        left: -15rem;
+        bottom: -12rem;
+    }
+    
+    .bl-moneda3{
+        position: absolute;
+        right: -5rem;
+        top: 11rem;
+        z-index: 200;
+        height: auto;
+        width: 10rem;
+    }
+    
+    .bl-moneda4{
+        position: absolute;
+        left: -3rem;
+        bottom: 2rem;
+        z-index: 200;
+    
+    }
+}
+@media (max-width: 1366px) {
+    .bl-imagen {
+        top: -9rem;
+        right: -2rem;
+        width: auto;
+    }
+    .bl-dinero .text-vIIlg{
+        font-size: 4rem;
+        line-height: 4rem;
+    }
+    .bl-dinero .text-xx{
+        font-size: 1rem;
+    }
+    .bl-oferta--precio{
+        font-size: 115px;
+        line-height: 6rem;
+    }
+    .bl-titulo .text-iv{
+        font-size: 2rem;
+    }
+    .bl-oferta--titulo{
+        margin-left: -135px;    
+        top: -1.7rem;
+    }
+    .bl-oferta--titulo1{
+        margin-left: -80px;    
+        top: -1.7rem;
+    }
+    .bl-content .text-v{
+        font-size: 2.1rem;
+    }
+
+    .bl-moneda{
+        position: absolute;
+        right: -3rem;
+        top: 4rem;
+        height: auto;
+        width: 10rem;
+    }
+    
+    .bl-moneda2{
+        position: absolute;
+        left: -15rem;
+        bottom: -12rem;
+    }
+    
+    .bl-moneda3{
+        position: absolute;
+        right: -5rem;
+        top: 11rem;
+        z-index: 200;
+        height: auto;
+        width: 10rem;
+    }
+    
+    .bl-moneda4{
+        position: absolute;
+        left: -3rem;
+        bottom: 2rem;
+        z-index: 200;
+    
+    }
+    .bl-oferta--titulo2 {
+        position: absolute;
+        top: -2rem;
+        background: white;
+        left: 50%;
+        margin-left: -130px;
+    }
+}
+@media (max-width: 1280px) {
+    .bl-plan .bl-oferta--precio{
+        font-size: 55px;
+        line-height: 2rem;
+    }
+    .bl-oferta .text-v{
+        font-size: 2rem;
+    }
+    .bl-moneda{
+        position: absolute;
+        right: -3rem;
+        top: 4rem;
+        height: auto;
+        width: 9rem;
+    }
+    
+    .bl-moneda2{
+        position: absolute;
+        left: -13rem;
+        bottom: -12rem;
+        height: auto;
+        width: 9rem;
+    }
+    
+    .bl-moneda3{
+        position: absolute;
+        right: -5rem;
+        top: 11rem;
+        z-index: 200;
+        height: auto;
+        width: 9rem;
+    }
+    
+    .bl-moneda4{
+        position: absolute;
+        left: -2rem;
+        bottom: 2rem;
+        z-index: 200;
+        height: auto;
+        width: 9rem;
+    
+    }
+}
+
+
+@media (max-width: 1024px) {
+    .bl-dinero .text-vIIlg{
+        font-size: 3rem;
+        line-height: 3rem;
+    }
+
+    .bl-formulario  .bl-titulo .text-v{
+        font-size: 1.8rem;
+    }
+    .bl-formulario .bl-imagen {
+        top: -7rem;
+        right: -2rem;
+        width: 372px;
+    }
+    .bl-formulario .bl-content .text-lgs{
+        font-size: 1.5rem;
+    }
+    .bl-ganar .bl-content .text-iv{
+        font-size: 1.4rem;
+    }
+    .bl-chat--imagen{
+        top: -6rem;
+        right: 1rem;
+    }
+    .bl-chat .text-iv {
+        font-size: 1.5rem;
+    }
+    .bl-chat .text-vIl {
+        font-size: 2.7rem;
+    }
+    .bl-plan .bl-imagen{
+        top: -1rem;
+        right: -1rem;
+
+    }
+    .bl-oferta .text-v{
+        font-size: 1.8rem;
+    }
+    .bl-oferta--titulo {
+        margin-left: -124px;
+        top: -1.3rem;
+    }
+    .bl-oferta--titulo1 {
+        margin-left: -76px;
+        top: -1.2rem;
+    }
+    .bl-oferta--titulo2 {
+        margin-left: -116px;
+        top: -1.2rem;
+    }
+    .bl-oferta--precio {
+        font-size: 90px;
+        line-height: 4rem;
+    }
+    .bl-oferta--precio span{
+        margin-top: -2rem
+    }
+    .bl-plan .bl-oferta--precio {
+        font-size: 45px;
+        line-height: 1rem;
+    }
+    .bl-content .text-xx {
+        font-size: 1rem;
+        line-height: normal;
+    }
+    .bl-chat--imagen {
+        top: -4rem;
+    }
+    .bl-titulo{
+        padding: 4rem 0rem;
+    }
+    .bl-moneda{
+        position: absolute;
+        right: -3rem;
+        top: 4rem;
+        height: auto;
+        width: 9rem;
+    }
+    
+    .bl-moneda2{
+        position: absolute;
+        left: -13rem;
+        bottom: -12rem;
+        height: auto;
+        width: 9rem;
+    }
+    
+    .bl-moneda3{
+        position: absolute;
+        right: -5rem;
+        top: 8rem;
+        z-index: 200;
+        height: auto;
+        width: 9rem;
+    }
+    
+    .bl-moneda4{
+        position: absolute;
+        left: -2rem;
+        bottom: 2rem;
+        z-index: 200;
+        height: auto;
+        width: 9rem;
+    
+    }
+}
+
+
+@media (max-width: 768px) {
+    .bl-dinero .container{
+        border-radius: 4rem;
+        padding-bottom: 9rem;
+    }
+    .bl-dinero .text-vIIlg{
+        font-size: 2.68rem;
+        line-height: 2.6rem;
+    }
+    .bl-dinero .text-lg {
+        font-size: 1.2rem;
+    }
+    .bl-dinero .text-v{
+        font-size: 1.8rem;
+        line-height: normal;
+    }
+    .bl-dinero .text-vIII{
+        font-size: 2.5em
+    }
+    .bl-dinero .text-xxs{
+        font-size: 1rem;
+    }
+    .bl-dinero .text-xx{
+        font-size: .8rem; 
+    }
+    .bl-formulario .bl-imagen {
+        top: -14rem;
+        width: 300px;
+        right: 50%;
+        margin-right: -150px;
+    }
+    .bl-formulario .bl-titulo{
+        padding-top: 7rem;
+        padding-bottom: 3rem;
+    }
+    .bl-formulario .bl-titulo .text-v{
+        font-size: 1.6rem 
+    }
+    .bl-formulario .bl-content .text-lgs{
+        font-size: 1rem
+    }
+    .bl-ganar .text-v {
+        font-size: 1.8rem;
+    }
+    
+    .bl-ganar .text-xxs {
+        font-size: 1.2rem;
+    }
+    
+    .bl-ganar .text-xx {
+        font-size: .8rem;
+    }
+    .bl-gracias--content .btn-verde{
+        font-size: 22px;  
+    }
+    .bl-chat--imagen {
+        top: -4rem;
+        right: 50%;
+        width: 250px;
+        margin-right: -125px;
+        left: inherit;
+    }
+    .bl-plan{
+        margin-top: 14rem
+    }
+    .bl-plan .owl-carousel{
+        margin-bottom: -4rem;
+    }
+    .bl-plan .bl-imagen{
+        top: -8rem;
+    }
+    .bl-titulo{
+        border-top-left-radius: 3.5rem;
+        border-top-right-radius: 3.5rem;
+    }
+    .bl-titulo--chat{
+        padding-top: 11rem;
+        padding-bottom: 2rem;
+    }
+
+    .bl-content .text-xxs {
+        font-size: 1.2rem;
+    }
+    .owl-theme .owl-nav.disabled+.owl-dots{
+        margin-bottom: 3rem
+    }
+    .bl-moneda{
+        position: absolute;
+        right: -2rem;
+        top: 1rem;
+        height: auto;
+        width: 6rem;
+    }
+    
+    .bl-moneda2{
+        position: absolute;
+        left: -7rem;
+        bottom: -14rem;
+        height: auto;
+        width: 7rem;
+    }
+    
+    .bl-moneda3{
+        position: absolute;
+        right: -3rem;
+        top: 8rem;
+        z-index: 200;
+        height: auto;
+        width: 6rem;
+    }
+    
+    .bl-moneda4{
+        position: absolute;
+        left: -1rem;
+        bottom: 2rem;
+        z-index: 200;
+        height: auto;
+        width: 7rem;
+    
+    }
+}
+
+@media (max-width: 640px) {
+
+    .bl-dinero {
+        margin-top: 22rem;
+    }
+    .bl-dinero .img-logoimagen {
+        margin-top: -20rem;
+    }
+    .bl-dinero .text-vIIlg {
+        font-size: 2rem;
+        line-height: 2.2rem;
+    }
+    .bl-dinero .text-v {
+        font-size: 1.73rem;
+    }
+    .bl-formulario .bl-content .text-lgs {
+        font-size: 1.2rem;
+        display: block;
+        font-family: 'MUSEO500';
+        line-height: normal;
+    }
+    .bl-ganar .text-xxs {
+        font-size: 1rem;
+    }
+    .bl-ganar .bl-content {
+        padding-left: 0rem;
+        padding-right: 0rem;
+    }
+    .bl-gracias{
+        padding: 2.5rem;
+        border-radius: 3rem;
+    }
+    .bl-gracias--content .img-logoimagen {
+        margin-top: -19rem;
+    }
+    
+    .bl-gracias--content .text-v {
+        font-size: 1.8rem;
+    }
+    .bl-gracias--content .text-xxs {
+        font-size: 1.2rem;
+    }
+    .bl-gracias--content .btn-verde {
+        font-size: 16px;
+    }
+    .bl-oferta--precio {
+        font-size: 70px;
+    }
+    .bl-titulo .text-iv {
+        font-size: 1.5rem;
+    }
+    
+    .bl-moneda{
+        position: absolute;
+        right: -2rem;
+        top: 1rem;
+        height: auto;
+        width: 7rem;
+    }
+    
+    .bl-moneda2{
+        position: absolute;
+        left: -7rem;
+        bottom: -14rem;
+        height: auto;
+        width: 7rem;
+    }
+    
+    .bl-moneda3{
+        position: absolute;
+        right: -7rem;
+        top: 20rem;
+        z-index: 200;
+        height: auto;
+        width: 7rem;
+    }
+    
+    .bl-moneda4{
+        position: absolute;
+        left: -1rem;
+        bottom: 2rem;
+        z-index: 200;
+        height: auto;
+        width: 7rem;
+    
+    }
+
+}
+
+
+@media (max-width: 480px) {
+    .bl-dinero .text-vIIlg {
+        font-size: 1.52rem;
+        line-height: 1.7rem;
+        padding-top: 2rem;
+    }
+    .bl-dinero .text-lg {
+        font-size: .8rem;
+    }
+    .bl-dinero .text-v {
+        font-size: 1.58rem;
+        font-family: 'Museo500';
+    }
+    .bl-dinero .text-vIII {
+        font-size: 1.5em;
+    }
+    .bl-dinero .text-xxs {
+        font-size: .89rem;
+    }
+    .bl-formulario .btn-text-registrate{
+        border-radius: 1rem;
+    }
+    .bl-formulario .bl-content {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+    .bl-ganar .text-xxs {
+        font-size: .9rem;
+        display: block;
+        font-family: 'Museo500';
+    }
+    .bl-titulo--chat{
+        padding-top: 9rem;    
+    }
+    .bl-chat .text-vIl {
+        font-size: 1.5rem;
+    }
+    .bl-moneda{
+        position: absolute;
+        right: -1rem;
+        top: 1rem;
+        height: auto;
+        width: 5rem;
+    }
+    
+    .bl-moneda2{
+        position: absolute;
+        left: -5rem;
+        bottom: -14rem;
+        height: auto;
+        width: 5rem;
+    }
+    
+    .bl-moneda3{
+        position: absolute;
+        right: -5rem;
+        top: 20rem;
+        z-index: 200;
+        height: auto;
+        width: 5rem;
+    }
+    
+    .bl-moneda4{
+        position: absolute;
+        left: -1rem;
+        bottom: 2rem;
+        z-index: 200;
+        height: auto;
+        width: 5rem;
+    
+    }
+}
+
+@media (max-width: 425px) {
+    .bl-ganar .text-xxs {
+        font-size: .81rem;
+    }
+        
+    .bl-dinero {
+        margin-top: 16rem;
+    }
+    .bl-dinero .img-logoimagen {
+        margin-top: -15rem;
+    }
+    .text-lg {
+        font-size: 1.2rem;
+    }
+    
+    .btn-verde{
+        font-size: 25px;
+    }
+    .bl-oferta--precio {
+        font-size: 55px;    
+        line-height: 2rem;
+    }
+    .bl-titulo--chat {
+        padding-top: 5rem;
+    } 
+    .bl-chat--imagen {
+        width: 180px;
+        margin-right: -90px;
+    }   
+    .bl-oferta--precio span {
+        margin-top: -1rem;
+        font-size: 30px
+    }
+    .bl-oferta--titulo {
+        margin-left: -104px;
+        top: -1.3rem;
+    }
+    .bl-oferta--titulo1 {
+        margin-left: -67px;
+        top: -1.2rem;
+    }
+    .bl-content .text-xxs {
+        font-size: .8rem;
+    }
+    .bl-titulo .text-iv {
+        font-size: 1.2rem;
+    }
+    .bl-moneda{
+        position: absolute;
+        right: -1rem;
+        top: 1rem;
+        height: auto;
+        width: 5rem;
+    }
+    
+    .bl-moneda2{
+        position: absolute;
+        left: -5rem;
+        bottom: -14rem;
+        height: auto;
+        width: 3rem;
+    }
+    
+    .bl-moneda3{
+        position: absolute;
+        right: -5rem;
+        top: 20rem;
+        z-index: 200;
+        height: auto;
+        width: 5rem;
+    }
+    
+    .bl-moneda4{
+        position: absolute;
+        left: -1rem;
+        bottom: 2rem;
+        z-index: 200;
+        height: auto;
+        width: 5rem;
+    
+    }
+}
+@media (max-width: 375px) {
+    .bl-dinero .text-v {
+        font-size: 1.4rem;
+        font-family: 'Museo500';
+    }
+    .bl-dinero .text-xxs {
+        font-size: .76rem;
+    }
+    .bl-formulario form input, .bl-formulario form select{
+        font-size: .8rem;
+    }
+    .bl-ganar .text-xxs {
+        font-size: .9rem;
+    }
+    .bl-oferta--titulo {
+        margin-left: -86px;
+        top: -1.3rem;
+    }
+    .bl-oferta--titulo1 {
+        margin-left: -55px;
+        top: -1.2rem;
+    }
+    .bl-oferta--titulo2 {
+        margin-left: -124px;
+        top: -1.2rem;
+    }
+    .bl-ganar .text-xxs--vigencia {
+        font-size: .7rem;
+        display: inline-block;
+    }
+    .bl-ganar .text-xx {
+        font-size: .6rem;
+        font-family: 'MUSEO500';
+    }
+    .bl-gracias {
+        padding: 1.5rem;
+        border-radius: 2rem;
+    }
+    .bl-gracias--content .img-logoimagen {
+        margin-top: -16rem;
+    }
+    .bl-dinero .text-xx {
+        font-size: .6rem;
+    }
+    .bl-oferta--precio {
+        font-size: 40px;
+        line-height: 1rem;
+    }
+}
+
+@media (max-width: 360px) {
+    header {
+        height: 100px;
+        padding-top: 1rem;
+    }
+    .bl-dinero {
+        margin-top: 14rem;
+    }
+    .bl-dinero .img-logoimagen {
+        margin-top: -12rem;
+    }
+    .bl-dinero .text-vIII {
+        font-size: 1em;
+    }
+    .bl-dinero .text-xxs {
+        font-size: .71rem;
+    }
+    .bl-dinero .text-xx {
+        font-size: .6rem;
+    }
+}
+
+@media (max-width: 320px) {
+    .bl-dinero .text-vIIlg {
+        font-size: 1.2rem;
+        line-height: 1.4rem;
+    }
+    .bl-dinero .text-v {
+        font-size: 1.2rem;
+    }
+    .bl-dinero .text-xxs {
+        font-size: .63rem;
+    }
+    .bl-ganar .text-xxs--vigencia {
+        font-size: .63rem;
+    }
+    .bl-chat--imagen {
+        width: 150px;
+        margin-right: -75px;
+    }
+    .bl-ganar .text-v {
+        font-size: 1.4rem;
+    }
+    .bl-titulo--chat {
+        padding-top: 4rem;
+    }
+    .bl-gracias--content {
+        margin-top: 10rem;
+    }
+    .bl-gracias--content .img-logoimagen {
+        margin-top: -13rem;
+    }    
+    .bl-gracias--content .btn-verde {
+        font-size: 12px;
+        padding: 0rem 1rem;
+    }
+    .bl-dinero .text-xx {
+        font-size: .5rem;
+    }
+    .bl-oferta--precio {
+        font-size: 30px;
+        line-height: 0;
+    }
+    .bl-titulo .text-iv {
+        font-size: 1rem;
+    }
+    .bl-content .text-xxs {
+        font-size: .7rem;
+    }
+    .bl-plan .bl-oferta--precio {
+        font-size: 30px;
+        line-height: 1rem;
+    }
+    .bl-oferta--titulo {
+        position: absolute;
+        top: -1rem;
+        background: white;
+        left: 50%;
+        margin-left: -69px;
+    }
+    .bl-oferta--titulo1 {
+        position: absolute;
+        top: -1rem;
+        background: white;
+        left: 50%;
+        margin-left: -41px;
+    }
+    .bl-oferta--titulo2 {
+        position: absolute;
+        top: -1rem;
+        background: white;
+        left: 50%;
+        margin-left: -66px;
+    }
+    .bl-oferta .text-v {
+        font-size: 1rem;
+    }
+}
