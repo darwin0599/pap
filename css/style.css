@@ -1193,6 +1193,80 @@ header{
     .bl-dinero .text-xx {
         font-size: .6rem;
     }
+    .bl-dinero .text-vIIlg {
+        font-size: 1.2rem;
+        line-height: 1.4rem;
+    }
+    .bl-dinero .text-v {
+        font-size: 1.2rem;
+    }
+    .bl-dinero .text-xxs {
+        font-size: .63rem;
+    }
+    .bl-ganar .text-xxs--vigencia {
+        font-size: .63rem;
+    }
+    .bl-chat--imagen {
+        width: 150px;
+        margin-right: -75px;
+    }
+    .bl-ganar .text-v {
+        font-size: 1.4rem;
+    }
+    .bl-titulo--chat {
+        padding-top: 5rem;
+    }
+    .bl-gracias--content {
+        margin-top: 10rem;
+    }
+    .bl-gracias--content .img-logoimagen {
+        margin-top: -13rem;
+    }    
+    .bl-gracias--content .btn-verde {
+        font-size: 12px;
+        padding: 0rem 1rem;
+    }
+    .bl-dinero .text-xx {
+        font-size: .5rem;
+    }
+    .bl-oferta--precio {
+        font-size: 30px;
+        line-height: 0;
+    }
+    .bl-titulo .text-iv {
+        font-size: 1rem;
+    }
+    .bl-content .text-xxs {
+        font-size: .7rem;
+    }
+    .bl-plan .bl-oferta--precio {
+        font-size: 30px;
+        line-height: 1rem;
+    }
+    .bl-oferta--titulo {
+        position: absolute;
+        top: -1rem;
+        background: white;
+        left: 50%;
+        margin-left: -69px;
+    }
+    .bl-oferta--titulo1 {
+        position: absolute;
+        top: -1rem;
+        background: white;
+        left: 50%;
+        margin-left: -41px;
+    }
+    .bl-oferta--titulo2 {
+        position: absolute;
+        top: -1rem;
+        background: white;
+        left: 50%;
+        margin-left: -66px;
+    }
+    .bl-oferta .text-v {
+        font-size: 1rem;
+    }
 }
 
 @media (max-width: 320px) {
