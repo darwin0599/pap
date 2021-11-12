@@ -1174,25 +1174,6 @@ header{
 }
 
 @media (max-width: 360px) {
-    header {
-        height: 100px;
-        padding-top: 1rem;
-    }
-    .bl-dinero {
-        margin-top: 14rem;
-    }
-    .bl-dinero .img-logoimagen {
-        margin-top: -12rem;
-    }
-    .bl-dinero .text-vIII {
-        font-size: 1em;
-    }
-    .bl-dinero .text-xxs {
-        font-size: .71rem;
-    }
-    .bl-dinero .text-xx {
-        font-size: .6rem;
-    }
     .bl-dinero .text-vIIlg {
         font-size: 1.2rem;
         line-height: 1.4rem;
@@ -1267,6 +1248,7 @@ header{
     .bl-oferta .text-v {
         font-size: 1rem;
     }
+    
 }
 
 @media (max-width: 320px) {
