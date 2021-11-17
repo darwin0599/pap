@@ -30,7 +30,9 @@
     background-repeat: no-repeat;
     left: .2rem;
     top: 40%;
-    margin-top: -27px;
+    margin-top: -30px;
+}
+bg-vigilado-centrado{
 }
 .bg-vigilado2{
     background-image: url('../images/vigilado.png');
@@ -245,8 +247,12 @@
 
 img {
     vertical-align: middle;
-    padding-top: 1.2rem;
     border-style: none;
+
+}
+.img-logoGiros{
+padding-top: 1rem;
+
 }
 
 .bl-registro{
@@ -318,10 +324,10 @@ img {
     padding-bottom: 3rem;
 }
 footer {
-    height: 100px;
+    height: 117px;
 }
 header{
-    height: 100px;
+    height: 117px;
     padding-bottom: .6rem;
 }
 .list-beneficios{
@@ -1133,6 +1139,9 @@ header{
         height: auto;
         width: 5rem;
     
+    }
+    footer{
+    height:100px;
     }
 }
 @media (max-width: 375px) {
