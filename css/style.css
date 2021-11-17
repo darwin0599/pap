@@ -30,7 +30,16 @@
     background-repeat: no-repeat;
     left: .2rem;
     top: 40%;
-    margin-top: -37px;
+    margin-top: -27px;
+}
+.bg-vigilado2{
+    background-image: url('../images/vigilado.png');
+    position: absolute;
+    width: 8px;
+    height: 5.8rem;
+    background-repeat: no-repeat;
+    left: .2rem;
+    margin-bottom: auto;
 }
 .btn-amarillo{
     line-height: normal;
@@ -234,7 +243,11 @@
     padding-right: 3rem !important;
 }
 
-
+img {
+    vertical-align: middle;
+    padding-top: 1.2rem;
+    border-style: none;
+}
 
 .bl-registro{
     border: 1px solid #4288a1;
@@ -304,13 +317,12 @@
     padding-top: 2rem;
     padding-bottom: 3rem;
 }
-footer{
-    height: 145px;
-    padding-top: 3rem;
+footer {
+    height: 100px;
 }
 header{
-    height: 106px;
-    padding-top: .5rem;
+    height: 100px;
+    padding-bottom: .6rem;
 }
 .list-beneficios{
     padding-left: 7rem;
