@@ -1066,7 +1066,7 @@ header{
         .footer-small {
                 height: 100px;
                 padding-bottom: .6rem;
-            }
+        }
     }
 }
 
@@ -1162,7 +1162,7 @@ header{
     .footer-small {
             height: 100px;
             padding-bottom: .6rem;
-        }
+     }
 }
 @media (max-width: 375px) {
     .bl-dinero .text-v {
@@ -1211,6 +1211,14 @@ header{
     .bl-oferta--precio {
         font-size: 40px;
         line-height: 1rem;
+    }
+     .header-small {
+            height: 100px;
+            padding-bottom: .6rem;
+        }
+    .footer-small {
+            height: 100px;
+            padding-bottom: .6rem;
     }
 }
 
@@ -1293,14 +1301,14 @@ header{
             padding-top: 1.6rem;
         }
 
-        .header-small {
+    .header-small {
+        height: 100px;
+        padding-bottom: .6rem;
+    }
+    .footer-small {
             height: 100px;
             padding-bottom: .6rem;
-        }
-        .footer-small {
-                height: 100px;
-                padding-bottom: .6rem;
-            }
+    }
     
 }
 
@@ -1383,7 +1391,7 @@ header{
             padding-top: 1.6rem;
         }
 
-        .header-small {
+    header {
             height: 100px;
             padding-bottom: .6rem;
         }
