@@ -1059,14 +1059,14 @@ header{
             padding-top: 1.6rem;
      }
 
-        .header-small {
+    .header-small {
+        height: 100px;
+        padding-bottom: .6rem;
+    }
+    .footer-small {
             height: 100px;
             padding-bottom: .6rem;
-        }
-        .footer-small {
-                height: 100px;
-                padding-bottom: .6rem;
-        }
+    }
     }
 }
 
@@ -1162,7 +1162,7 @@ header{
     .footer-small {
             height: 100px;
             padding-bottom: .6rem;
-     }
+    }
 }
 @media (max-width: 375px) {
     .bl-dinero .text-v {
@@ -1391,12 +1391,12 @@ header{
             padding-top: 1.6rem;
         }
 
-    header {
+    .header-small {
             height: 100px;
             padding-bottom: .6rem;
-        }
-        .footer-small {
-                height: 101px;
-                padding-bottom: .6rem;
-            }
+    }
+    .footer-small {
+            height: 101px;
+            padding-bottom: .6rem;
+    }
 }
