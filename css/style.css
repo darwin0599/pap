@@ -1055,7 +1055,18 @@ header{
         z-index: 200;
         height: auto;
         width: 5rem;
-    
+    .img-logoGiros {
+            padding-top: 1.6rem;
+        }
+
+        .header-small {
+            height: 100px;
+            padding-bottom: .6rem;
+        }
+        .footer-small {
+                height: 100px;
+                padding-bottom: .6rem;
+            }
     }
 }
 
@@ -1140,9 +1151,18 @@ header{
         width: 5rem;
     
     }
-    footer{
-    height:100px;
+    .img-logoGiros {
+        padding-top: 1.6rem;
     }
+
+    .header-small {
+        height: 100px;
+        padding-bottom: .6rem;
+    }
+    .footer-small {
+            height: 100px;
+            padding-bottom: .6rem;
+        }
 }
 @media (max-width: 375px) {
     .bl-dinero .text-v {
@@ -1269,6 +1289,18 @@ header{
     .bl-oferta .text-v {
         font-size: 1rem;
     }
+    .img-logoGiros {
+            padding-top: 1.6rem;
+        }
+
+        .header-small {
+            height: 100px;
+            padding-bottom: .6rem;
+        }
+        .footer-small {
+                height: 100px;
+                padding-bottom: .6rem;
+            }
     
 }
 
@@ -1347,4 +1379,16 @@ header{
     .bl-oferta .text-v {
         font-size: 1rem;
     }
+    .img-logoGiros {
+            padding-top: 1.6rem;
+        }
+
+        .header-small {
+            height: 100px;
+            padding-bottom: .6rem;
+        }
+        .footer-small {
+                height: 100px;
+                padding-bottom: .6rem;
+            }
 }
